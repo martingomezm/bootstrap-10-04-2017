@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Hola mundo!</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="style.css" rel="stylesheet">
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+
+</html>
+
+<body>
+   <div class="container">
+   <div class="row">
+         <div class="col-sm-12">
+         <header>
+           <h1>Armonía: consonancia y disonancia<br />
+             <small>el comportamiento del color mediante su relación en la composición</small>
+           </h1>
+
+         </header>
+         </div>
+
+         <div class="col-sm-6 col-md-8 col-lg-8">
+         <section>
+           <h2>Artículos de interés</h2>
+           <article>
+             <h3>Sobre restricciones y paletas cromáticas</h3>
+             <h5>BENGOA, M. (2015). Sobre restricciones y paletas cromáticas .
+             REVISTA DISEÑA, 8 http://www.revistadisena.com/sobre-restricciones-y-paletas-cromaticas/</h5>
+
+             <p>El artículo plantea un recorrido por las obras realizadas desde mediados
+                de los años noventa hasta la actualidad, exponiendo diversas aproximaciones
+                al trabajo con el color, desde los inicios, relacionados a la etapa formativa
+                ligada al curso La Interacción del Color de Josef Albers, pasando por un uso
+                más bien referencial, hasta las diversas materialidades que han determinado
+                distintas formas de aproximarse a la idea de paletas restringidas.
+                Se plantea la utilización de la fotografía como imagen de referencia
+                que tiene por objeto ser traducida —por medios manuales— a murales
+                de gran escala, proponiendo en cada obra un desafío metodológico
+                distinto, tanto en relación con el medio fotográfico como con el estudio del color.</p>
+
+                <a href="http://www.revistadisena.com/sobre-restricciones-y-paletas-cromaticas/">en linea.
+                </a>
+          </article>
+
+          <article>
+            <h3>Color y ciudad insistir en el muro</h3>
+            <h5>CRISTI, N. (2015). Color y ciudad insistir en el muro .
+             REVISTA DISEÑA, 8 http://www.revistadisena.com/color-y-ciudad-insistir-en-el-muro/</h5>
+
+            <p>Si bien en la actualidad coexisten brigadas muralistas y grafiteros,
+               el presente artículo da cuenta de la emergencia de un nuevo lenguaje
+               fronterizo, que aun insistiendo en el uso del muro, cuestiona la
+               caracterización tradicional de mural y graffiti —y su relación con
+               el mundo de las bellas artes— mezclando visualidades, extrapolando
+               técnicas y desarrollando nuevos modos de organización de la producción.
+               Por medio del trabajo de Vazco, INTI y Elliot Tupac, como exponentes
+               de la nueva escena, se profundizará en el uso del color y su relación
+               con el espacio público, intentando responder por qué estos creadores
+               siguen insistiendo en el uso del muro.</p>
+
+               <a href="http://www.revistadisena.com/color-y-ciudad-insistir-en-el-muro/">en linea.
+               </a>
+         </article>
+
+         <article>
+           <h3>Sensación y pintura en Deleuze</h3>
+           <h5>Honorato Crespo, Paula. (2010). Sensación y pintura en Deleuze. Aisthesis, (47), 272-283. https://dx.doi.org/10.4067/S0718-71812010000100019</h5>
+
+           <p> El presente ensayo comenta los alcances de la teoría de la pintura desarrollada por Gilles Deleuze en Francis Bacon. Lógica de la sensación. Se abordan, específicamente, aquellos fundamentos que sostienen la comprensión del medio pictórico como campo de acción para el arte contemporáneo, no así, la obra de Bacon en particular. Desde esta perspectiva, se relevan las siguientes claves de la teoría deleuziana: primero, la pintura concebida como un lenguaje dirigido al cuerpo con el poder de configurar sensaciones determinadas; y segundo, la noción de cuadro como manifestación material-objetiva de dichas sensaciones.</p>
+
+              <a href="http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-71812010000100019">en linea.
+              </a>
+        </article>
+
+
+
+
+           </section>
+         </div>
+
+         <div class="col-sm-4 col-md-3 col-lg-3">
+         <aside>
+           <h2>aside</h2>
+           <ul>
+             <li>primer elemento </li>
+             <li>segundo elemento </li>
+             <li>tercero elemento </li>
+             <li>cuarto elemento </li>
+
+           </ul>
+           </aside>
+
+         </div>
+
+         <div class="clearfix"></div>
+         <div class="col-sm-12">
+         <footer>
+           <p><a href="mailto:martin.gomez@ug.uchile.cl"> Martín Gómez </a> | Lunes 10 de aril, 2017 | Diseño UCH </p>
+         </footer>
+         </div>
+      </div>
+   </div>
+   <script src="js/jquery.min.js"></script>
+   <script src="js/bootstrap.min.js"></script>
+ </body>

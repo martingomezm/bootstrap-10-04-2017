@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Hola mundo!</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="style.css" rel="stylesheet">
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+
+</html>
+
+<body>
+
+  <!--esto es nuevo-->
+   <nav class="navbar navbar-default navbar-fixed-top">
+     <div class="container">
+       <div class="navbar-header">
+         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+           <span class="sr-only">Toggle navigation</span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+         </button>
+         <a class="navbar-brand" href="index.html">Portada</a>
+       </div>
+       <div id="navbar" class="navbar-collapse collapse">
+         <ul class="nav navbar-nav navbar-right">
+           <li><a href="about.html">Acerca de…</a></li>
+         </ul>
+       </div><!--/.nav-collapse -->
+     </div>
+   </nav>
+    <!--llega hasta acá y lo puedes copiar/pegar-->
+
+
+   <div class="container">
+   <div class="row">
+         <div class="col-sm-12">
+         <header>
+           <h1>Armonía: consonancia y disonancia<br />
+             <small>el comportamiento del color mediante su relación en la composición</small>
+           </h1>
+
+         </header>
+         </div>
+
+         <div class="col-sm-6 col-md-8 col-lg-8">
+         <section>
+           <h2>Acerda de...</h2>
+           <article>
+             <h3>El tema</h3>
+
+             <p>Todavia no esta escogido el tema al 100%,ya que hay que seguir dandole vueltas al tema como
+               grupo, pero principalmente tratara sobre la relación del color en composiciones
+               diversas, la armonia, disonancia y consonancia
+               en paletas cromaticas y su relacion con los pigmentos.</p>
+
+
+          </article>
+
+          <article>
+            <h3>Motivación</h3>
+
+<ul>
+
+            <li>La principal motivación para desarrollar un tema por el estilo,
+            es que yo pinto hace como 8 años mas o menos, partí y sigo dedicandome al graffiti y al
+            muralismo, lo que se extendio posteriormente a trabajar con oleo y acrilico en distintos
+            soportes. </li>
+
+            <li>Dentro de mis principales tematicas pictoricas a tratar esta la exploración en la
+            composición y en el juego de colores, con diferentes materiales y pigmentos.</li>
+            Por lo que investigar y desarrollar alguna teoria
+            <li>sobre armonias cromaticas en general me permitirá seguir indagando en un área
+           a la que ya me dedico.</li>
+
+         </ul>
+
+
+
+
+
+           </section>
+         </div>
+
+         <div class="col-sm-4 col-md-3 col-lg-3">
+         <aside>
+           <h2>aside</h2>
+           <ul>
+             <li>primer elemento </li>
+             <li>segundo elemento </li>
+             <li>tercero elemento </li>
+             <li>cuarto elemento </li>
+
+           </ul>
+           </aside>
+
+         </div>
+
+         <div class="clearfix"></div>
+         <div class="col-sm-12">
+         <footer>
+           <p><a href="mailto:martin.gomez@ug.uchile.cl"> Martín Gómez </a> | Lunes 10 de aril, 2017 | Diseño UCH </p>
+         </footer>
+         </div>
+      </div>
+   </div>
+   <script src="js/jquery.min.js"></script>
+   <script src="js/bootstrap.min.js"></script>
+ </body>
