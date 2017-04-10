@@ -1,11 +1,22 @@
-header, section, aside, footer{
+body{
+padding-top:50px;
+}
 
-  background:silver;
+header, section, aside, footer{
+background:white;
+padding-top:50px;
+}
+
+footer{
+font-size:90%;
+letter-spacing:0.01em;
+padding-top:1em;
+margin:4em 0;
 }
 
 @media screen and (max-width:768px) {
     header, section, aside, footer{
-       background:black;
+       /*background:black;*/
     }
 
 
